@@ -2,7 +2,7 @@ class Steelyard < Formula
   desc "Analytics and visualization app size utility for Apple platforms developers."
   homepage "https://github.com/mcrollin/Steelyard"
   url "https://github.com/mcrollin/Steelyard.git",
-    tag: "0.1.1"
+    tag: "0.2.0"
   license "MIT"
   head "https://github.com/mcrollin/Steelyard.git", branch: "main"
 
